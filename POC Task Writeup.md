@@ -165,12 +165,4 @@ Monitor bans:
 
 ---
 
-## 📁 License
 
-This project is for educational purposes only. Use responsibly.
-
----
-
-## 🤝 Contributions
-
-Feel free to fork and improve this repo with new POC tasks or enhancements!
